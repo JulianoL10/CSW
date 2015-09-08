@@ -1,0 +1,97 @@
+html{
+    
+font-family: tahoma;
+}
+
+
+
+
+
+
+body{
+
+ 
+}
+
+
+
+
+t{
+    
+   font-size: 50px;
+
+   color: white;
+   background-color: green;
+
+
+
+}
+
+t2{
+    
+   font-size: 35px;
+
+   color: white;
+   background-color: green;
+   font-style: italic;
+
+
+
+}
+
+c{
+    font-style: italic;
+    text-align: right;
+    font-size: 15px;
+    text-transform: underline;
+
+
+}
+
+p{
+    
+   font-size: 20px;
+
+
+}
+
+
+
+sm{
+    color: blue;
+}
+
+ch{
+    color:green;
+}
+
+kk{
+    color: red;
+}
+
+div{
+    text-align: center;
+}
+
+div.margem2 {
+            background: #900;
+            color: #FFF;
+            
+
+
+}
+
+div.margem1 {
+            background: #900;
+            color: #FFF;
+            
+
+
+}
+div.margem3 {
+            background: #900;
+            color: #FFF;
+            
+
+
+}

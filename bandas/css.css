@@ -3,6 +3,7 @@
 body {
     background-image: url(n1.jpg);
     background-repeat: no-repeat;
+    background-position: top;
 
 
 
@@ -11,7 +12,9 @@ body {
 
 
 
-h1{
+
+
+div{
     font-family: arial;
     margin-top: 220px;
 }
