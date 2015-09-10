@@ -3,15 +3,63 @@ html{
 font-family: tahoma;
 }
 
-
-
-
-
-
-body{
-
- 
+.borda{
+  float: left;
+  width: 100% ;
+  border: solid;
+  border-color: blue;
 }
+.bordac{
+  float: left;
+  width: 100% ;
+  border: solid;
+  border-color: green;
+}
+
+.bordak{
+  float: left;
+  width: 100% ;
+  border: solid;
+  border-color: red;
+}
+
+.voltar{
+  margin-bottom: 80%;
+}
+
+.madruga {
+font-size: 35px;
+
+   color: white;
+   background-color: blue;
+   font-style: italic;
+
+}
+.chiquinha {
+font-size: 35px;
+
+   color: white;
+   background-color: green;
+   font-style: italic;
+
+}
+
+.kiko {
+font-size: 35px;
+
+   color: white;
+   background-color: red;
+   font-style: italic;
+
+}
+
+
+  body {
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+  }
 
 
 
